@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474462990829",
+    "firebase_url": "https://realtimedatabasehealth.firebaseio.com",
+    "project_id": "realtimedatabasehealth",
+    "storage_bucket": "realtimedatabasehealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474462990829:android:90a101e93ef1bd01",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474462990829-l5qseavmrn9fim1eo21rvv0q01i5fjfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3AXuHMv_OmqL5X9pP3zsuSIOrKW2dCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

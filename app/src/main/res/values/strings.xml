@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealtimeDB_Health</string>
+    <string name="none">None</string>
+    <string name="get">Get</string>
+    <string name="submit">Submit</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="enter_the_disease">enter the disease</string>
+    <string name="enter_the_symptoms">enter the symptoms</string>
+</resources>
